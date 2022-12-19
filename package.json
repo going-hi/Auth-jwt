@@ -7,9 +7,7 @@
     "start": "node ./dist/index.js",
     "dev": "nodemon",
     "build": "tsc",
-    "test": "jest",
-    "lint": "eslint src/**/*.ts",
-    "lint:fix": "eslint src/**/*.ts --fix"
+    "test": "jest"
   },
   "author": "going_hi",
   "license": "ISC",
