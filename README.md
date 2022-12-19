@@ -3,7 +3,7 @@
 Start
 ===
 
-> Create .env and add your options
+> First, create ```.env``` file and add your options
 
 ```
 npm run build
