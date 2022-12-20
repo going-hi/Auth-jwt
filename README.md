@@ -32,7 +32,6 @@ npm run test
 ===
 
 ```
-
 PORT=1000
 DB_NAME='auth'
 DB_PASSWORD='passworddb'
